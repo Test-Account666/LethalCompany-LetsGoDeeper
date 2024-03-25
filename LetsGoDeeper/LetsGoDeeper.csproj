@@ -5,7 +5,7 @@
         <AssemblyName>TestAccount666.LetsGoDeeper</AssemblyName>
         <Product>LetsGoDeeper</Product>
         <!-- Change to whatever version you're currently on. -->
-        <Version>1.0.1</Version>
+        <Version>1.1.0</Version>
         <Description>Giving doors consciousness since 1989.</Description>
         <Source>https://github.com/TheBlackEntity/LethalCompany-LetsGoDeeper</Source>
     </PropertyGroup>
