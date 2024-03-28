@@ -1,3 +1,6 @@
+## 1.1.1
+\* Fixed last person alive check not working
+
 ## 1.1.0
 \+ Added config<br>
 \+ You can now choose if you are able to go through main entrance or fire exit as you wish<br>
